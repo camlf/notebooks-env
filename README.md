@@ -1,4 +1,4 @@
-# hub-notebooks-env
+# notebooks-env
 Standard environments for Academic Hub notebooks 
 
 ## Link generator for Binder-based classes
